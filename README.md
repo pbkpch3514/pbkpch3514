@@ -10,9 +10,13 @@
 ## Contact me
 [![Naver](https://img.shields.io/badge/pbkpch@naver.com-03C75A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pbkpch@naver.com)
 
+## 학력
+- 2023.03 ~ 2025.02, 국민대학교 컴퓨터공학과 석사
+    - 평점 4.19 / 4.5
+- 2019.03 ~ 2023.02, 국민대학교 소프트웨어학부 학사
+    - 평점 4.04 / 4.5
 
-
-### 주요 경력
+## 주요 경력
 - 2021.09 ~ Present, 국민대학교 정보보호연구실 연구원
 - 2023.08 ~ 2023.08, 한국과학기술정보연구원 인턴
 
@@ -51,11 +55,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## 학력 사항
-- 2023.03 ~ 2025.02, 국민대학교 컴퓨터공학과 석사
-    - 평점 4.19 / 4.5
-- 2019.03 ~ 2023.02, 국민대학교 소프트웨어학부 학사
-    - 평점 4.04 / 4.5
+
  
 ## 기타 사항
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pbkpch)](https://solved.ac/pbkpch)
