@@ -6,7 +6,7 @@
 
 ## Portfolio/CV
 [![Notion](https://img.shields.io/badge/Portfolio-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)](https://loving-ninja-d09.notion.site/2bdbcb4d269f4af98183d3885f2d08da)
-[![PDF](https://img.shields.io/badge/CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://file.notion.so/f/f/89b5d547-cb19-4cfe-9908-58c07ed0b69f/350a4ade-7add-4674-8021-8c31e829a6e7/%EB%B0%95%EC%B0%AC%ED%98%81_CV.pdf?table=block&id=15aecd02-1344-806c-bf15-fb2d97dd4b15&spaceId=89b5d547-cb19-4cfe-9908-58c07ed0b69f&expirationTimestamp=1734091200000&signature=D8e3mtqLOfJQX6MWUpEDOpT76EspfkEfL5KZciNrhN0&downloadName=%EB%B0%95%EC%B0%AC%ED%98%81_CV.pdf)
+[![PDF](https://img.shields.io/badge/CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://file.notion.so/f/f/89b5d547-cb19-4cfe-9908-58c07ed0b69f/6a5f648e-ebb2-49c4-b65e-547bb0dea3fc/%EB%B0%95%EC%B0%AC%ED%98%81_CV.pdf?table=block&id=15aecd02-1344-806c-bf15-fb2d97dd4b15&spaceId=89b5d547-cb19-4cfe-9908-58c07ed0b69f&expirationTimestamp=1734091200000&signature=-8rYm524OjzPet2RNBuNFBSvz0llVNn4shTfQTMw_lU&downloadName=%EB%B0%95%EC%B0%AC%ED%98%81_CV.pdf)
 
 
 
