@@ -6,7 +6,7 @@
 
 ## Portfolio/CV
 [![Notion](https://img.shields.io/badge/Portfolio-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)](https://loving-ninja-d09.notion.site/2bdbcb4d269f4af98183d3885f2d08da)
-[![PDF](https://img.shields.io/badge/CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([https://example.com/your-pdf-link](박찬혁_CV.pdf))
+[![PDF](https://img.shields.io/badge/CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](박찬혁_CV.pdf)
 
 
 ## Contact me
