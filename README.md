@@ -1,8 +1,8 @@
-## Hi there I'm ChanHyuk Park👋
+## Hi there I'm ChanHyeok Park👋
 
-비트맵 기반 추정 알고리즘, 해싱 기반 유사 파일 검색, 딥러닝/머신러닝 기반 보안 시스템 자동화 등을 연구 및 개발을 해왔습니다.
+KISA, 윈스 등 여러 국가기관 및 기업들과 협업하며, AI 기반 침입탐지 시스템과 문서 검색 연구를 통해, 복잡한 문제를 해결해왔습니다.
 
-이러한 기술들과 경험들을 바탕으로 산업계에 놓일 다양한 문제들을 고민하고 해결해가고 싶습니다.
+이러한 경험들을 바탕으로 산업계에 있는 다양한 문제들을 해결해나가고 싶습니다.
 
 ## Portfolio/CV
 [![Notion](https://img.shields.io/badge/Portfolio-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)](https://loving-ninja-d09.notion.site/2bdbcb4d269f4af98183d3885f2d08da)
