@@ -1,12 +1,10 @@
 ## Hi there I'm ChanHyeok Park👋
 
-KISA, 윈스 등 여러 국가기관 및 기업들과 협업하며, AI 기반 침입탐지 시스템과 문서 검색 연구를 통해, 복잡한 문제를 해결해왔습니다.
-
-이러한 경험들을 바탕으로 산업계에 있는 다양한 문제들을 해결해나가고 싶습니다.
+3번의 해외 우수 학회에 논문 투고, 6번의 국가연구 및 산학협력 과제 참여, 1번의 특허 출원, 그리고 KISTI 인턴십을 통해 산업체의 문제를 직접 해결하면서 우수한 문제해결 경험을 쌓아왔습니다.
+이러한 문제 해결 경험을 통해 산업체가 겪을 다양한 문제들을 해결하는데 기여하며 성장해나가고 싶습니다.
 
 ## Portfolio/CV
 [![Notion](https://img.shields.io/badge/Portfolio-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)](https://loving-ninja-d09.notion.site/2bdbcb4d269f4af98183d3885f2d08da)
-[![PDF](https://img.shields.io/badge/CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://file.notion.so/f/f/89b5d547-cb19-4cfe-9908-58c07ed0b69f/6a5f648e-ebb2-49c4-b65e-547bb0dea3fc/%EB%B0%95%EC%B0%AC%ED%98%81_CV.pdf?table=block&id=15aecd02-1344-806c-bf15-fb2d97dd4b15&spaceId=89b5d547-cb19-4cfe-9908-58c07ed0b69f&expirationTimestamp=1734091200000&signature=-8rYm524OjzPet2RNBuNFBSvz0llVNn4shTfQTMw_lU&downloadName=%EB%B0%95%EC%B0%AC%ED%98%81_CV.pdf)
 
 
 
@@ -18,7 +16,7 @@ KISA, 윈스 등 여러 국가기관 및 기업들과 협업하며, AI 기반 �
 - 2023.03 ~ 2025.02, 국민대학교 컴퓨터공학과 석사
     - 평점 4.19 / 4.5
 - 2019.03 ~ 2023.02, 국민대학교 소프트웨어학부 학사
-    - 평점 4.04 / 4.5
+    - 평점 4.01 / 4.5
 
 ## 주요 경력
 - 2021.09 ~ Present, 국민대학교 정보보호연구실 연구원
