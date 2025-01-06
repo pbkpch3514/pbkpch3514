@@ -4,7 +4,7 @@
 이러한 문제 해결 경험을 통해 산업체가 겪을 다양한 문제들을 해결하는데 기여하며 성장해나가고 싶습니다.
 
 ## Portfolio/CV
-[![Notion](https://img.shields.io/badge/Portfolio-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)](https://loving-ninja-d09.notion.site/2bdbcb4d269f4af98183d3885f2d08da)
+[![Notion](https://img.shields.io/badge/Portfolio-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)](http://loving-ninja-d09.notion.site)
 
 
 
